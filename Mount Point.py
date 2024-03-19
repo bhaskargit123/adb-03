@@ -1,2 +1,2 @@
 # Databricks notebook source
-abc='abc'
+dbutils.fs.ls("/mnt/source")
